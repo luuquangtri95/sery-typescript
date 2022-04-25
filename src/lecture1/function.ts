@@ -24,3 +24,4 @@ addDefault(6, 5);
 //
 
 const minus = (a: number, b: number): number => a - b;
+// tạo type cho function

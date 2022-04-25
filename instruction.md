@@ -1,4 +1,4 @@
-## lưu ý về cách đặt tên của interface và type
+## lưu ý về cách đặt tên của interface, enum và type
 
 - đặt tên theo PascalCase
 - không sử dụng prefix "I"
